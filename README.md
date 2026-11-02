@@ -1,4 +1,4 @@
-# Jelenlét - Jéglovagok
+# Jelenlét - Jéglovagok (nem hivatalos)
 
 A Veszprémi Jéglovagok jelenlétkezelő alkalmazása.
 
