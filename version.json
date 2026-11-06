@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.2",
+  "latest_version": "1.0.3",
   "min_version": "1.0.0",
-  "release_notes": "Frissítés-ellenőrzés javítása, hibaüzenetek megjelenítése",
-  "apk_url": "https://github.com/csipetcsabi/team-admin-releases/releases/download/v1.0.2/Jelenlet-1.0.2.apk"
+  "release_notes": "Frissítés tesztelése",
+  "apk_url": "https://github.com/csipetcsabi/team-admin-releases/releases/download/v1.0.3/Jelenlet-1.0.3.apk"
 }
