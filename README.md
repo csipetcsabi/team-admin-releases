@@ -1,6 +1,25 @@
-# Jelenlét - Jéglovagok (nem hivatalos)
+# Jelenlét – Jéglovagok (nem hivatalos Android kliens)
 
-A Veszprémi Jéglovagok jelenlétkezelő alkalmazása.
+Nem hivatalos Android alkalmazás, amellyel az edzésekre való jelentkezést lehet kezelni. Az app a saját fiókoddal csatlakozik a [https://jeglovagok.teamadmin.hu/](https://jeglovagok.teamadmin.hu/) oldalhoz, és ugyanazokat az adatokat mutatja, mint a weboldal.
+
+> Az alkalmazás nem a TeamAdmin és nem a Jéglovagok hivatalos fejlesztése. A jelszavadat csak a telefonod tárolja titkosítva, és kizárólag a teamadmin.hu oldalra küldi el bejelentkezéskor.
+
+## Funkciók
+
+- Havi naptár az edzések időpontjaival – zöld pont: megyek, szürke pont: nem megyek
+- Jelentkezés vagy lemondás egy gombnyomással (a következő 5 hét edzéseire)
+- „MA” gomb, amellyel a mai napra ugrik
+- Automatikus frissítés: indításkor szól, ha van új verzió
+- Visszajelzés küldése emailben
+- Világos és sötét téma
+
+## Képernyőképek
+
+<p>
+  <img src="screenshots/naptar-sotet.jpg" alt="Naptár sötét témával" width="300">
+  &nbsp;&nbsp;
+  <img src="screenshots/naptar-vilagos.jpg" alt="Naptár világos témával" width="300">
+</p>
 
 ## Letöltés
 
@@ -13,6 +32,12 @@ A Veszprémi Jéglovagok jelenlétkezelő alkalmazása.
 3. Ha kéri, engedélyezd az ismeretlen forrásból történő telepítést
 4. Kövesd a telepítő utasításait
 
-## Verzió információ
+> **Play Protect figyelmeztetés:** mivel az alkalmazás nem a Play Áruházból származik, az Android figyelmeztethet, hogy ismeretlen fejlesztőtől van. Ilyenkor válaszd a „További részletek”, majd a „Telepítés mindenképp” lehetőséget.
 
-Az aktuális verzió: lásd [version.json](version.json)
+## Frissítés
+
+Az alkalmazás indításkor ellenőrzi, van-e újabb verzió, és ha van, egy gombnyomással letölti és telepíti. Az aktuális verzió: lásd [version.json](version.json).
+
+## Visszajelzés
+
+Hibát találtál vagy ötleted van? Az alkalmazásban: **Beállítások → Visszajelzés küldése**, vagy írj a [csipetcsabi@gmail.com](mailto:csipetcsabi@gmail.com) címre.
