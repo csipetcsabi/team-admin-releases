@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.5",
+  "latest_version": "1.0.6",
   "min_version": "1.0.0",
-  "release_notes": "Mérkőzések csillaggal, csapatszínek és csapatszűrő",
-  "apk_url": "https://github.com/csipetcsabi/team-admin-releases/releases/download/v1.0.5/Jelenlet-1.0.5.apk"
+  "release_notes": "Csapatszínű csempék, halványabb „nem megyek” jelek",
+  "apk_url": "https://github.com/csipetcsabi/team-admin-releases/releases/download/v1.0.6/Jelenlet-1.0.6.apk"
 }
