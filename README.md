@@ -1,8 +1,8 @@
-# Jelenlét – Jéglovagok (nem hivatalos Android kliens)
+# Jelenlét – Jéglovagok (nem hivatalos Android és web kliens)
 
-Nem hivatalos Android alkalmazás, amellyel az edzésekre való jelentkezést lehet kezelni. Az app a saját fiókoddal csatlakozik a [https://jeglovagok.teamadmin.hu/](https://jeglovagok.teamadmin.hu/) oldalhoz, és ugyanazokat az adatokat mutatja, mint a weboldal.
+Nem hivatalos Android és webes alkalmazás, amellyel az edzésekre való jelentkezést lehet kezelni. Az app a saját fiókoddal csatlakozik a [https://jeglovagok.teamadmin.hu/](https://jeglovagok.teamadmin.hu/) oldalhoz, és ugyanazokat az adatokat mutatja, mint a weboldal.
 
-> Az alkalmazás nem a TeamAdmin és nem a Jéglovagok hivatalos fejlesztése. A jelszavadat csak a telefonod tárolja titkosítva, és kizárólag a teamadmin.hu oldalra küldi el bejelentkezéskor.
+> Az alkalmazás nem a TeamAdmin és nem a Jéglovagok hivatalos fejlesztése. A jelszavadat csak a telefonod (a webes verziónál a böngésződ) tárolja titkosítva, és bejelentkezéskor csak a teamadmin.hu oldalra küldi el – a webes verzió ezt egy közvetítőn keresztül teszi, ami semmit nem tárol és nem naplóz.
 
 ## Funkciók
 
