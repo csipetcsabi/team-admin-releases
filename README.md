@@ -25,7 +25,16 @@ Nem hivatalos Android alkalmazás, amellyel az edzésekre való jelentkezést le
 
 📱 **[Legújabb Android verzió letöltése](https://github.com/csipetcsabi/team-admin-releases/releases/latest)**
 
-## Telepítés
+🌐 **[Webes verzió (iPhone, számítógép)](https://jelenlet.netlify.app)** – böngészőből is használható, és telepíthető appként.
+
+## Telepítés webes appként
+
+- **Android / számítógép (Chrome, Edge):** nyisd meg a [jelenlet.netlify.app](https://jelenlet.netlify.app) oldalt, és koppints a **„Telepítés appként”** gombra.
+- **iPhone / iPad (Safari):** nyisd meg az oldalt a Safariban, koppints a Megosztás gombra, majd válaszd a **„Főképernyőhöz adás”** lehetőséget.
+
+A webes verzió mindig a legfrissebb, külön frissíteni nem kell. A teamadmin.hu felé a kéréseket egy közvetítő továbbítja (a böngésző közvetlenül nem érheti el az oldalt); ez semmit nem tárol és nem naplóz.
+
+## Telepítés (Android APK)
 
 1. Töltsd le az APK fájlt a telefonodra
 2. Nyisd meg a letöltött fájlt
