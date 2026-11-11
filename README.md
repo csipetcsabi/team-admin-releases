@@ -21,18 +21,26 @@ Nem hivatalos Android alkalmazás, amellyel az edzésekre való jelentkezést le
   <img src="screenshots/naptar-vilagos.jpg" alt="Naptár világos témával" width="300">
 </p>
 
+## Webes alkalmazás
+
+Böngészőből is használható, bármilyen eszközön (iPhone, Android, számítógép): **[https://jelenlet.netlify.app/](https://jelenlet.netlify.app/)**
+
+<p>
+  <a href="https://jelenlet.netlify.app/?install=1">
+    <img src="https://img.shields.io/badge/Webes%20alkalmaz%C3%A1s%20telep%C3%ADt%C3%A9se-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Webes alkalmazás telepítése">
+  </a>
+</p>
+
+A gomb megnyitja az alkalmazást, és felajánlja a telepítést – a megjelenő **„Telepítés”** gombra koppintva az app a kezdőképernyőre kerül.
+
+- **Android / számítógép (Chrome, Edge):** a megjelenő „Telepítés” gombbal egy koppintással telepíthető.
+- **iPhone / iPad (Safari):** az Apple nem engedi a közvetlen telepítést; koppints a Megosztás gombra, majd a **„Főképernyőhöz adás”** lehetőségre.
+
+A webes verzió mindig a legfrissebb, külön frissíteni nem kell. A teamadmin.hu felé a kéréseket egy közvetítő továbbítja (a böngésző közvetlenül nem érheti el az oldalt); ez semmit nem tárol és nem naplóz.
+
 ## Letöltés
 
 📱 **[Legújabb Android verzió letöltése](https://github.com/csipetcsabi/team-admin-releases/releases/latest)**
-
-🌐 **[Webes verzió (iPhone, számítógép)](https://jelenlet.netlify.app)** – böngészőből is használható, és telepíthető appként.
-
-## Telepítés webes appként
-
-- **Android / számítógép (Chrome, Edge):** nyisd meg a [jelenlet.netlify.app](https://jelenlet.netlify.app) oldalt, és koppints a **„Telepítés appként”** gombra.
-- **iPhone / iPad (Safari):** nyisd meg az oldalt a Safariban, koppints a Megosztás gombra, majd válaszd a **„Főképernyőhöz adás”** lehetőséget.
-
-A webes verzió mindig a legfrissebb, külön frissíteni nem kell. A teamadmin.hu felé a kéréseket egy közvetítő továbbítja (a böngésző közvetlenül nem érheti el az oldalt); ez semmit nem tárol és nem naplóz.
 
 ## Telepítés (Android APK)
 
