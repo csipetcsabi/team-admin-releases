@@ -55,6 +55,10 @@ A webes verzió mindig a legfrissebb, külön frissíteni nem kell. A teamadmin.
 
 Az alkalmazás indításkor ellenőrzi, van-e újabb verzió, és ha van, egy gombnyomással letölti és telepíti. Az aktuális verzió: lásd [version.json](version.json).
 
+## Névtelen használati statisztika
+
+Az alkalmazás naponta egyszer jelzi, hogy megnyitották-e, és hogyan (böngészőben, telepített webes appként vagy Androidon). A jelzésben csak egy véletlenszerű eszközazonosító van, amit az app az első indításkor hoz létre; a szerver ennek is csak egy titkosított lenyomatát tárolja. Nevet, email-címet, jelszót vagy IP-címet nem küld és nem tárol.
+
 ## Visszajelzés
 
 Hibát találtál vagy ötleted van? Az alkalmazásban: **Beállítások → Visszajelzés küldése**, vagy írj a [csipetcsabi@gmail.com](mailto:csipetcsabi@gmail.com) címre.
